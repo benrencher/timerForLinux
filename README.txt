@@ -1,0 +1,1 @@
+Designed to provide stopwatch and timer functions
